@@ -1,4 +1,4 @@
-# puppeteer-email
+# email-puppeteer
 
 > Email automation driven by headless chrome.
 
@@ -141,15 +141,3 @@ See [parse-email](https://github.com/transitive-bullshit/parse-email) for detail
 - [sms-number-verifier](https://github.com/transitive-bullshit/sms-number-verifier) - Allows you to spoof SMS number verification.
 - [puppeteer-github](https://github.com/transitive-bullshit/puppeteer-github) - GitHub automation driven by headless chrome.
 - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
-
-
-## Disclaimer
-
-Using this software to violate the terms and conditions of any third-party service is strictly against the intent of this software. By using this software, you are acknowledging this fact and absolving the author or any potential liability or wrongdoing it may cause. This software is meant for testing and experimental purposes only, so please act responsibly.
-
-
-## License
-
-MIT © [Travis Fischer](https://github.com/transitive-bullshit)
-
-Support my OSS work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
